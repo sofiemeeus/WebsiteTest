@@ -2,7 +2,7 @@ remote_theme: peterdesmet/petridish@2.0
 
 colors:
   links: "#007bff"                      # Color for links: use a readable color that contrasts well with dark text
-  banner: "#006bff"                     # Background color for page banners: use color that contrasts well with white
+  banner: "#ff00d9"                     # Background color for page banners: use color that contrasts well with white
   footer: "#6c757d"                     # Background color for footer: use color that contrasts well with white
 font_serif: true                        # Font type for page content: serif (default) or slightly smaller sans-serif
 rounded_corners: true                   # Enable (default) rounded corners on boxes and buttons
